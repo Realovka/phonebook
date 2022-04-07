@@ -7,7 +7,7 @@ This program is console application. You can do such actions as:
 4) to delete user by his id
 
 Run is through .main() in Main class. 
-All information will save in a file. 
+All information will save in a file
 
 ## Create user.
 You need enter fist name, last name, email, role, telephones (optional),
