@@ -25,5 +25,5 @@ You need enter user id if you want to know all information about him.
 You need enter user id if you want to update user information. You can update 
 all information. And here you can add, update or delete his telephones.
 
-##Delete user by id
+## Delete user by id
 You need enter user id if you want to delete him.
